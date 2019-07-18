@@ -1,0 +1,19 @@
+{
+  "name": "sir-he/php-helper-fun",
+  "type": "library",
+  "license": "Proprietary for sir-he",
+  "authors": [
+    {
+      "name": "hezl",
+      "email": "1269737227@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Helper\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
