@@ -1,7 +1,7 @@
 {
   "name": "youxiage/php-helper-fun",
   "type": "library",
-  "license": "Proprietary for youxiage",
+  "license": "MIT",
   "authors": [
     {
       "name": "hezl",
