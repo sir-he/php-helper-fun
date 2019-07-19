@@ -12,7 +12,7 @@ composer install
 初始化组件包。
 
 ```php
-use Youxiage\Helper;
-$obj = new Helper();
+use Youxiage\Helper\Test;
+$obj = new Test();
 var_dump($obj->testFun());
 ```
