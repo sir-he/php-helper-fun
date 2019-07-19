@@ -1,9 +1,9 @@
 <?php
 
-namespace Helper;
+namespace Youxiage\Helper;
 
 class Helper {
-    function test() {
+    function testFun() {
         echo 'hello';
     }
 }

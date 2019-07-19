@@ -1,16 +1,16 @@
 {
-  "name": "sir-he/php-helper-fun",
+  "name": "youxiage/php-helper-fun",
   "type": "library",
-  "license": "Proprietary for sir-he",
+  "license": "Proprietary for youxiage",
   "authors": [
     {
       "name": "hezl",
-      "email": "1269737227@qq.com"
+      "email": "youxiage@outlook.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Helper\\": "src/"
+      "Youxiage\\Helper\\": "src/"
     }
   },
   "require": {
